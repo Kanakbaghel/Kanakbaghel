@@ -1,6 +1,6 @@
 👋 Hello, everyone! Welcome to my GitHub profile, where I showcase my journey into the fascinating world of data science. I'm currently pursuing the E&ICT IIT Guwahati course, diving deep into data science, predictive modeling, and machine learning!
 <br>
-<span style="color:blue;">About Me</span>
+**<span style="color:blue;">About Me</span>**
 <br>
 📊 Aspiring Data Scientist with a passion for uncovering insights from data.
 <br>
@@ -10,7 +10,7 @@
 <br>
 🌱 Constantly learning and growing—one dataset at a time.
 <br>
-<span style="color:blue;">Skills & Tools</span>
+**<span style="color:blue;">Skills & Tools</span>**
 <br>
 🐍 Python  🧮 NumPy  📊 Pandas  🌟 Scikit-Learn
 📈 Data Visualization: Matplotlib, Seaborn, Plotly
