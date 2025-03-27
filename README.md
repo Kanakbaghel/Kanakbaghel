@@ -1,22 +1,42 @@
-👋 Hello, everyone! Welcome to my GitHub profile, where I showcase my journey into the fascinating world of data science. I'm currently pursuing the E&ICT IIT Guwahati course, diving deep into data science, predictive modeling, and machine learning!
+👋 Hello, everyone! 
+<br> 
+Here, I share my exciting journey into the world of data science and programming. I’m set to graduate soon with a Bachelor’s in Business Administration, and I’m currently pursuing the E&ICT IIT Guwahati course. My learning journey includes diving deep into data science, predictive modeling, and machine learning. This is just the beginning, and I’m excited to keep growing and sharing my projects with you!
+<em>"I’m passionate about data science and continuously working on enhancing my programming skills through practical projects and advanced coursework."</em>
 <br>
 **<span style="color:blue;">About Me</span>**
 <br>
-📊 Aspiring Data Scientist with a passion for uncovering insights from data.
+Welcome to my GitHub profile, a space where I document my journey into the dynamic field of data science and business analytics. With a foundation in business administration and advanced training at E&ICT IIT Guwahati, I am building expertise in diverse areas such as SQL, Python, data visualization, and machine learning.
+Here’s what my learning path looks like:
 <br>
-📘 Studying at E&ICT IIT Guwahati to build a strong foundation in data science.
+**Data Science Foundations**: From inferential statistics to exploratory data analysis (EDA) using Python and R.
 <br>
-🎨 Creative thinker exploring opportunities to blend analytical skills with artistic vision.
+**SQL Mastery**: Comprehensive understanding of basics, joins, functions, and advanced database concepts.
 <br>
-🌱 Constantly learning and growing—one dataset at a time.
+**Business Intelligence**: Creating impactful Power BI dashboards and implementing DAX for data modeling.
 <br>
-**<span style="color:blue;">Skills & Tools</span>**
+**Machine Learning**: Designing predictive models, exploring supervised and unsupervised learning, and fine-tuning hyperparameters.
 <br>
-🐍 Python  🧮 NumPy  📊 Pandas  🌟 Scikit-Learn
-📈 Data Visualization: Matplotlib, Seaborn, Plotly
-🔍 Machine Learning: Regression, Classification, Clustering
-💾 SQL for database management
-📑 Jupyter Notebooks for experiments and analysis
+**Generative AI Specialization**: Applying prompt engineering and AI techniques for real-world case studies.
+<br>
+As I approach my capstone project, I am enthusiastic about combining analytical rigor with creativity to deliver innovative solutions. Feel free to explore my repositories to track my projects and progress as I learn, grow, and contribute to this exciting domain.
+<br>
+**<span style="color:blue;"> Skills </span>**
+<br>
+Data Analysis and Visualization, EDA, ML, Predictive Modeling and Statistical Analysis, Data Cleaning and Transformation, Generative AI & Prompt Engineering, Business Analytics and Decision-Making
+<br>
+**<span style="color:blue;"> Tools and Technology </span>**
+<br>
+Programming Languages: Python, R
+<br>
+Database Management: SQL (Joins, Constraints, Functions)
+<br>
+Business Intelligence: Power BI (Data Modeling, Dashboards, DAX)
+<br>
+Generative AI: Prompt Engineering
+<br>
+Version Control: Git & GitHub
+<br>
+Others: Excel (Advanced), Power Query
 <br>
 **<span style="color:blue;">Connect with Me</span>**
 <br>
