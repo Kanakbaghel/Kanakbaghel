@@ -1,52 +1,54 @@
-👋 Hello, everyone! 
-<br> 
-Here, I share my exciting journey into the world of data science and programming. I’m set to graduate soon with a Bachelor’s in Business Administration, and I’m currently pursuing the E&ICT IIT Guwahati course. My learning journey includes diving deep into data science, predictive modeling, and machine learning. This is just the beginning, and I’m excited to keep growing and sharing my projects with you!
-<br>
-<em>"I’m passionate about data science and continuously working on enhancing my programming skills through practical projects and advanced coursework."</em>
-<br>
-**<span style="color:blue;">About Me</span>**
-<br>
-Welcome to my GitHub profile, a space where I document my journey into the dynamic field of data science and business analytics. With a foundation in business administration and advanced training at E&ICT IIT Guwahati, I am building expertise in diverse areas such as SQL, Python, data visualization, and machine learning.
-Here’s what my learning path looks like:
-<br>
-<br>
-**Data Science Foundations**: From inferential statistics to exploratory data analysis (EDA) using Python and R.
-<br>
-**SQL Mastery**: Comprehensive understanding of basics, joins, functions, and advanced database concepts.
-<br>
-**Business Intelligence**: Creating impactful Power BI dashboards and implementing DAX for data modeling.
-<br>
-**Machine Learning**: Designing predictive models, exploring supervised and unsupervised learning, and fine-tuning hyperparameters.
-<br>
-**Generative AI Specialization**: Applying prompt engineering and AI techniques for real-world case studies.
-<br>
-<br>
-As I approach my capstone project, I am enthusiastic about combining analytical rigor with creativity to deliver innovative solutions. Feel free to explore my repositories to track my projects and progress as I learn, grow, and contribute to this exciting domain.
-<br>
-<br>
-<span style="color:blue;"> **SKILLS** </span>
-<br>
-Data Analysis and Visualization, EDA, ML, Predictive Modeling and Statistical Analysis, Data Cleaning and Transformation, Generative AI & Prompt Engineering, Business Analytics and Decision-Making
-<br>
-<br>
-<span style="color:blue;"> **TOOLS AND TECHNOLOGY** </span>
-<br>
-**Programming Languages**: Python, R
-<br>
-**Database Management**: SQL (Joins, Constraints, Functions)
-<br>
-**Business Intelligence**: Power BI (Data Modeling, Dashboards, DAX)
-<br>
-**Generative AI**: Prompt Engineering
-<br>
-**Version Control**: Git & GitHub
-<br>
-**Others**: Excel (Advanced), Power Query
-<br>
-<br>
-<span style="color:blue;"> **Connect with Me** </span>
-<br>
-📧 Email: baghelkanak52@gmail.com
-<br>
-<span style="color:yellow;"> **🌟 Let’s collaborate, explore, and grow together!** </span>
+# Hi, I'm Kanak Baghel 👋
+
+---
+
+## About Me
+ 
+I am a passionate **data analyst, finance expert, and web developer**, with a strong focus on blending technical excellence with creativity. Whether it's **building AI-driven models, refining financial insights, or crafting user-centric web experiences**, I thrive on solving complex problems and delivering impactful solutions.
+
+Throughout my journey, I have worked across **Python, SQL, Excel, Tally Prime, and web technologies**, navigating fields like **financial analytics, storytelling, and machine learning competitions**. I actively engage in platforms like **Kaggle**, where I refine my skills in **exploratory data analysis, AI-driven insights, and model building**.
+
+Collaboration is integral to my approach—I enjoy working with diverse teams, sharing knowledge, and mentoring others to drive innovation. My keen eye for debugging and optimization ensures **high-performance and scalable solutions**.
+
+Beyond work, I love exploring **the intersection of technology and storytelling**, crafting narratives that make data and design more engaging. I'm also deeply interested in **language refinement, cultural analysis, and public speaking**, continuously learning and evolving.
+
+If you're looking for someone **who merges finance, data, and storytelling into powerful projects**, let's connect and **build something extraordinary together!** 🚀  
+
+---
+
+## Currently
+
+- 🎓 Final year BBA (Financial Investment Analysis), DU SOL  
+- 📚 Completed Data Science & Business Analytics course from Emeritus IIT Guwahati  
+- 💻 Exploring Python, SQL, and Data Visualization for Business Analytics  
+- 🌱 Actively building skills in coding and data analytics  
+- 🌍 Looking for opportunities to apply my skills and grow professionally
+
+---
+
+## Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## GitHub Stats
+
+[![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanakbaghel&show_icons=true&theme=dark&count_private=true)](https://github.com/Kanakbaghel)
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanakbaghel)
+
+---
+
+> "Believe in your potential and keep pushing your limits — that's how you grow."  
+> — Kanak Baghel
 
