@@ -38,9 +38,6 @@
   </tr>
 </table>
 
-<a href="https://github.com/Kanakbaghel">
-  <img alt="Top Languages by Commit Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakbaghel&langs_count=8&layout=compact&theme=radical" />
-</a>
 
 
 > "Believe in your potential and keep pushing your limits — that's how you grow."  
