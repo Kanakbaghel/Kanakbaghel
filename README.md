@@ -21,24 +21,5 @@
 <p align="center">Welcome to my Github Page, I'm Kanak Baghel. I'm a Student of BBA (FIA) @Delhi_University and Data Science & Business Analytics learner @Emeritus, IIT Guwahati.</p>
 
 
-## GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Kanakbaghel">
-        <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kanakbaghel&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Kanakbaghel">
-        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanakbaghel&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
 > "Believe in your potential and keep pushing your limits — that's how you grow."  
 > — Kanak Baghel
