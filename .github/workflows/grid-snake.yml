@@ -1,20 +1,12 @@
-## GitHub Action for generating a contribution graph with a snake eating your contributions.
-## GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
-
-name: generate animation
+name: Generate Snake Animation
 
 on:
-  # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-
-  # allows to manually run the job at any time
-  workflow_dispatch:
-
-  # run on every push on the master branch
+    - cron: "*/5 * * * *" # runs every 12 hours
+  workflow_dispatch:         # manual trigger
   push:
     branches:
-    - main
+      - main                 # runs on push to main
 
 jobs:
   generate:
@@ -22,17 +14,20 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0     # required for full contribution history
+
+      - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Push github-contribution-grid-snake.svg to the output branch
+
+      - name: Deploy Snake SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
