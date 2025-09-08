@@ -1,1 +1,29 @@
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate Snake SVG
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Kanakbaghel
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg
+            ./output/ocean.gif
+
+      - name: Push to Output Folder
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate contribution snake and 3D animation"
+          add: "output"
