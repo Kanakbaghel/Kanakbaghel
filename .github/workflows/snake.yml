@@ -2,16 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # daily at midnight
+  workflow_dispatch:      # manual trigger
 
 jobs:
   generate:
-    name: Generate Snake SVG
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -22,8 +23,9 @@ jobs:
             ./output/github-contribution-grid-snake-dark.svg
             ./output/ocean.gif
 
-      - name: Push to Output Folder
+      - name: Commit snake files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate contribution snake and 3D animation"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          message: "Auto-update snake & 3D animation"
           add: "output"
