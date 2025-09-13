@@ -1,9 +1,11 @@
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+👋,+I+am+Kanak+Baghel;+Welcome+to+My+Profile+😄!;Always+learning+new+things+...!;)](https://git.io/typing-svg)
+
+
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img width="1199" height="674" alt="image" src="https://github.com/user-attachments/assets/e81f2dc8-cca1-431a-9e18-107fa563b33d" />
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+👋,+I+am+Kanak+Baghel;+Welcome+to+My+Profile+😄!;Always+learning+new+things+...!;)](https://git.io/typing-svg)
 
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
