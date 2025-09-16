@@ -25,6 +25,12 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
 -->
+---
+
+# To Learn More...!
+[for the future hacker...](https://referral.hackthebox.com/mzGYlUJ)
+
+---
 
 <table align="center">
   <tr>
@@ -172,7 +178,4 @@ counting of visitors to this page in this section started from March 12, 2025
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda 
 
 ---
-
-[for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
-
 ![](assets/Bottom_down.svg)
