@@ -157,7 +157,7 @@ counting of visitors to this page in this section started from March 25, 2025
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Kanakbaghel/DS_learning_path&type=Date)](https://www.star-history.com/#Kanakbaghel/DS_learning_path&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Kanakbaghel/DS_learning_path,Kanakbaghel/TechNest-Internship&type=Date)](https://www.star-history.com/#Kanakbaghel/DS_learning_path&Kanakbaghel/TechNest-Internship&Date)
 
 
 ### Profile Views
