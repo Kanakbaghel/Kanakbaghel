@@ -97,14 +97,14 @@
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Kanakbaghel&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakbaghel&theme=radical&layout=compact) |
-
+<!--
 <div align="center">
   <h3>My GitHub Activity</h3>
 </div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanakbaghel&theme=dark" alt="Your GitHub Activity Graph" />
 </p>
-
+--->
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
@@ -147,7 +147,7 @@ width="30%">
 |-------|-----------|
 | <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile?username=Kanakbaghel&theme=dark" alt="GitHub Profile Summary" /> </div> | <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kanakbaghel&theme=dark" alt="GitHub Stats" /> </div> |
 | <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kanakbaghel&theme=dark" alt="Repositories Per Language" /></div> | <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kanakbaghel&theme=dark" alt="Most Committed Language" /></div> |
-
+<!--
 #### Thanks for visiting :heart:
 
 counting of visitors to this page in this section started from March 25, 2025
@@ -155,7 +155,6 @@ counting of visitors to this page in this section started from March 25, 2025
   <a href="https://info.flagcounter.com/BZ10"><img src="https://s01.flagcounter.com/count2/BZ10/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 
-<!--
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Kanakbaghel/DS_learning_path,Kanakbaghel/TechNest-Internship&type=Date)](https://www.star-history.com/#Kanakbaghel/DS_learning_path&Kanakbaghel/TechNest-Internship&Date)
