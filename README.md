@@ -14,7 +14,7 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img width="1199" height="674" alt="image" src="https://github.com/user-attachments/assets/e81f2dc8-cca1-431a-9e18-107fa563b33d" />
+<a href="https://www.python.org/"><img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9ece117c-cba2-4547-8d2d-8a664fc47f48" />
 
 
 <!--   my-kaggle     
@@ -155,9 +155,11 @@ counting of visitors to this page in this section started from March 25, 2025
   <a href="https://info.flagcounter.com/BZ10"><img src="https://s01.flagcounter.com/count2/BZ10/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 
+<!--
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Kanakbaghel/DS_learning_path,Kanakbaghel/TechNest-Internship&type=Date)](https://www.star-history.com/#Kanakbaghel/DS_learning_path&Kanakbaghel/TechNest-Internship&Date)
+-->
 
 
 ### Profile Views
