@@ -127,20 +127,6 @@ Dive into my key repositories showcasing real-world applications:
 
 ---
 
-## 📊 **GitHub Stats & Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanakbaghel&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakbaghel&theme=radical&layout=compact" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <h3>My GitHub Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanakbaghel&theme=dark" alt="GitHub Activity Graph"/>
-</div>
-
----
-
 ## 🏆 **Achievements & Trophies**
 
 <div align="center">
