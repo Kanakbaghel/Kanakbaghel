@@ -18,17 +18,6 @@
 
 ---
 
-## 📋 **Table of Contents**
-- [Introduction](#-introduction)
-- [Skills & Technologies](#-skills--technologies)
-- [Projects Showcase](#-projects-showcase)
-- [GitHub Stats & Analytics](#-github-stats--analytics)
-- [Achievements & Trophies](#-achievements--trophies)
-- [Machine Learning Roadmap](#-machine-learning-roadmap)
-- [Contact & Connect](#-contact--connect)
-
----
-
 ## 📖 **Introduction**
 
 Hey there! 👋 I'm **Kanak Baghel**, an aspiring Data Scientist passionate about turning data into actionable insights. With a BBA (FIA) background, I'm currently honing my skills through programs like **Emeritus @ IIT Guwahati** and internships at **TechNest**. I love exploring machine learning, deep learning, and everything in between!
@@ -122,6 +111,7 @@ Dive into my key repositories showcasing real-world applications:
 | **TechNest Internship** | 16-week internship tasks: ETL, ML, NLP, and deployments. | Python, TensorFlow, Flask | [🔗 View Repo](https://github.com/Kanakbaghel/TechNest-Internship-Data-Science) |
 | **Python Journey** | beginner friendly repository; python for data science | Python | [🔗 View Repo](https://github.com/Kanakbaghel/Python_journey) |
 | **Foresight PowerBI Internship** | Interactive Power BI dashboard for sales insights. | Power BI | [🔗 View Repo](https://github.com/Kanakbaghel/Foresight-PowerBI-Internship) |
+| **The Data Science Journey** | begginer friendly repository | Python, SQL, R, Machine Learning, LLMs & GenAI | [ 🔗 View Repo](https://github.com/Kanakbaghel/The_Data_Science_Journey)
 
 *Explore more on my GitHub! 🚀*
 
@@ -144,22 +134,6 @@ Dive into my key repositories showcasing real-world applications:
 
 ---
 
-## 🧠 **Machine Learning Roadmap**
-
-Visualizing my journey in ML:
-
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
-
----
-
 ## 📞 **Contact & Connect**
 
 Let's connect and collaborate!
@@ -170,6 +144,9 @@ Let's connect and collaborate!
   </a>
   <a href="https://github.com/Kanakbaghel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@kanakbgl">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
