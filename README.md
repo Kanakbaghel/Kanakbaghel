@@ -1,11 +1,16 @@
 <!-- Header Section with Badges and Typing Animation -->
 <div align="center">
-  <img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status Badge">
-  <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="Python Badge"></a>
-  <a href="https://github.com/Kanakbaghel/Kanakbaghel/graphs/contributors"><img src="https://img.shields.io/github/contributors/Kanakbaghel/Kanakbaghel?color=blue" alt="Contributors Badge"></a>
-  <a href="https://github.com/Kanakbaghel/Kanakbaghel/stargazers"><img src="https://img.shields.io/github/stars/Kanakbaghel.svg?logo=github" alt="Stars Badge"></a>
-  <a href="https://github.com/Kanakbaghel/Kanakbaghel/network/members"><img src="https://img.shields.io/github/forks/Kanakbaghel/Kanakbaghel.svg?color=blue&logo=github" alt="Forks Badge"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kanakbaghel.Kanakbaghel" alt="Visitors Badge"/>
+  <img src="https://img.shields.io/badge/status-active__learning-brightgreen.svg" alt="Status Badge">
+  <a href="https://github.com/Kanakbaghel?tab=repositories&q=&type=&language=python">
+    <img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="Python Badge">
+  </a>
+  <a href="https://github.com/Kanakbaghel">
+    <img src="https://img.shields.io/github/stars/Kanakbaghel?style=flat&logo=github&color=amber&label=total%20stars" alt="Total Stars Badge">
+  </a>
+  <a href="https://github.com/Kanakbaghel">
+    <img src="https://img.shields.io/github/forks/Kanakbaghel?style=flat&logo=github&color=blue&label=total%20forks" alt="Total Forks Badge">
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kanakbaghel.Kanakbaghel" alt="Visitors Badge" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+👋,+I+am+Kanak+Baghel.........;+Welcome+to+My+Profile+😄!;+Aspiring+Data+Scientist+!;Always+learning+new+things+...!;)](https://git.io/typing-svg)
@@ -115,7 +120,6 @@ Dive into my key repositories showcasing real-world applications:
 |---------|-------------|------------|------|
 | **Emeritus Graded Projects** | Academic projects from IIT Guwahati program, including ML models and dashboards. | Python, Power BI, MySQL | [🔗 View Repo](https://github.com/Kanakbaghel/Emeritus-Graded-Projects) |
 | **TechNest Internship** | 16-week internship tasks: ETL, ML, NLP, and deployments. | Python, TensorFlow, Flask | [🔗 View Repo](https://github.com/Kanakbaghel/TechNest-Internship-Data-Science) |
-| **Python Journey** | beginner friendly repository; python for data science | Python | [🔗 View Repo](https://github.com/Kanakbaghel/Python_journey) |
 | **Foresight PowerBI Internship** | Interactive Power BI dashboard for sales insights. | Power BI | [🔗 View Repo](https://github.com/Kanakbaghel/Foresight-PowerBI-Internship) |
 | **The Data Science Journey** | begginer friendly repository | Python, SQL, R, Machine Learning, LLMs & GenAI | [ 🔗 View Repo](https://github.com/Kanakbaghel/The_Data_Science_Journey)
 
