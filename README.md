@@ -20,7 +20,13 @@
 
 ## 📖 **Introduction**
 
-Hey there! 👋 I'm **Kanak Baghel**, an aspiring Data Scientist passionate about turning data into actionable insights. With a BBA (FIA) background, I'm currently honing my skills through programs like **Emeritus @ IIT Guwahati** and internships at **TechNest**. I love exploring machine learning, deep learning, and everything in between!
+## 📖 Introduction
+
+Hey there! 👋 I'm **Kanak Baghel**, an aspiring Data Scientist bridging the gap between business strategy and advanced analytics. Holding a background in BBA (FIA), I am uniquely positioned to solve complex financial and business problems using data.
+
+Right now, I am sharpening my technical toolkit through the **Emeritus program @ IIT Guwahati** and gaining hands-on industry experience via internships at **TechNest**. I thrive on exploring Machine Learning, Deep Learning, and building end-to-end data pipelines.
+
+💡 *Always open to collaborations on open-source projects, data science discussions, or exciting new opportunities!*
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Data Science GIF" width="400"/>
