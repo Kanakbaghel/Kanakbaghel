@@ -24,8 +24,7 @@
 ---
 
 ## 📖 **Introduction**
-
-## 📖 Introduction
+-----
 
 Hey there! 👋 I'm **Kanak Baghel**, an aspiring Data Scientist bridging the gap between business strategy and advanced analytics. Holding a background in BBA (FIA), I am uniquely positioned to solve complex financial and business problems using data.
 
