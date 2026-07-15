@@ -88,7 +88,7 @@ I specialize in turning raw business data into clear, actionable insights — wi
 <a href="https://www.linkedin.com/in/kanakbaghel">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://kanak.itsfolio.tech">
+<a href="https://www.artfolio.tech/kanak">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:kanak.bgl704@gmail.com">
