@@ -18,7 +18,7 @@
 
 ## 📖 About Me
 
-Hey there! 👋 I'm **Kanak Baghel**, a Data Analyst with a unique edge — I combine **Financial Investment Analysis (BBA, DU SOL)** with hands-on data skills from my **Post Graduate Certification in Data Science & Business Analytics with GenAI from IIT Guwahati (Emeritus)** — completed with **99.29%** 🎯
+Hey there! 👋 I'm **Kanak Baghel**, a Data Analyst with a unique edge — I combine **Financial Investment Analysis (BBA, DU SOL)** with hands-on data skills from my **Post Graduate Certification in Data Science & Business Analytics with GenAI from IIT Guwahati (Emeritus)** 
 
 I specialize in turning raw business data into clear, actionable insights — with a strong edge in **FinTech and business analytics** where finance intuition meets data skills.
 
@@ -70,14 +70,6 @@ I specialize in turning raw business data into clear, actionable insights — wi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanakbaghel&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -85,9 +77,6 @@ I specialize in turning raw business data into clear, actionable insights — wi
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanakbaghel&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-<div align="center">
-  <img src="https://github.com/Kanakbaghel/Kanakbaghel/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
 ---
