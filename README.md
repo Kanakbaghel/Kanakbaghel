@@ -26,7 +26,7 @@ I specialize in turning raw business data into clear, actionable insights — wi
 - 💼 Interned at **TechNest** (11 end-to-end projects) & **Forggith Pharmaceuticals**
 - 📊 Strongest in **Power BI, SQL, and Python EDA**
 - 💡 Finance domain knowledge = my real differentiator
-- 🌐 Portfolio: [kanak.itsfolio.tech](https://kanak.itsfolio.tech)
+- 🌐 Portfolio: [My Portfolio](https://www.artfolio.tech/kanak)
 
 <br clear="right"/>
 
