@@ -81,8 +81,13 @@ I specialize in turning raw business data into clear, actionable insights — wi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanakbaghel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakbaghel&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanakbaghel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanakbaghel&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+<div align="center">
+  <img src="https://github.com/Kanakbaghel/Kanakbaghel/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
 ---
