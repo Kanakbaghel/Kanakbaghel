@@ -81,6 +81,14 @@ I specialize in turning raw business data into clear, actionable insights — wi
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Kanakbaghel/Kanakbaghel/blob/main/.github/workflows/snake1.yml" alt="Contribution Snake"/>
+</div>
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
