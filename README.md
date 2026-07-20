@@ -62,7 +62,7 @@ I specialize in turning raw business data into clear, actionable insights — wi
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Emeritus Graded Projects**](https://github.com/Kanakbaghel/Emeritus-Graded-Projects) | Academic projects from IIT Guwahati program — ML models, EDA, and Power BI dashboards | Python, Power BI, MySQL |
-| [**TechNest Internship**](https://github.com/Kanakbaghel/TechNest-Internship-Data-Science) | 11 end-to-end projects: ETL pipelines, NLP, and ML deployments | Python, Flask, NLP |
+| [**TechNest Internship**](https://github.com/Kanakbaghel/TechNest-Internship) | 11 end-to-end projects: ETL pipelines, NLP, and ML deployments | Python, Flask, NLP |
 | [**Foresight Power BI Internship**](https://github.com/Kanakbaghel/Foresight-PowerBI-Internship) | Interactive sales intelligence dashboard with complex DAX measures | Power BI, DAX |
 | [**The Data Science Journey**](https://github.com/Kanakbaghel/The_Data_Science_Journey) | Structured learning repository covering SQL, Python, EDA, and ML | Python, SQL, ML |
 
