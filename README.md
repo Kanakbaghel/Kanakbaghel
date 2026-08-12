@@ -18,7 +18,7 @@
 
 ## 📖 About Me
 
-Hey there! 👋 I'm **Kanak Baghel**, a Data Analyst with a unique edge — I combine **Financial Investment Analysis (BBA, DU SOL)** with hands-on data skills from my **Post Graduate Certification in Data Science & Business Analytics with GenAI from IIT Guwahati (Emeritus)** 
+Hey there! 👋 I'm **Kanak Baghel**, a Data Analyst with a unique edge — I combine **Financial Investment Analysis (BBA, FIA)** with hands-on data skills from my **Post Graduate Certification in Data Science & Business Analytics with GenAI from IIT Guwahati (Emeritus)** 
 
 I specialize in turning raw business data into clear, actionable insights — with a strong edge in **FinTech and business analytics** where finance intuition meets data skills.
 
@@ -26,7 +26,7 @@ I specialize in turning raw business data into clear, actionable insights — wi
 - 💼 Interned at **TechNest** (11 end-to-end projects) & **Forggith Pharmaceuticals**
 - 📊 Strongest in **Power BI, SQL, and Python EDA**
 - 💡 Finance domain knowledge = my real differentiator
-- 🌐 Portfolio: [My Portfolio](https://www.artfolio.tech/kanak)
+- 🌐 Portfolio: [My Portfolio](http://www.artfolio.tech/kanak)
 
 <br clear="right"/>
 
