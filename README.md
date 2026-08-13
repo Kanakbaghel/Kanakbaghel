@@ -104,10 +104,7 @@ I specialize in turning raw business data into clear, actionable insights — wi
 </a>
 <a href="https://github.com/Kanakbaghel">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@kanakbgl">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+
 
 </div>
 
