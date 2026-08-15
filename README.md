@@ -22,7 +22,6 @@ Hey there! 👋 I'm **Kanak Baghel**, a Data Analyst with a unique edge — I co
 
 I specialize in turning raw business data into clear, actionable insights — with a strong edge in **FinTech and business analytics** where finance intuition meets data skills.
 
-- 🔍 Actively seeking **Data Analyst** roles (fresher)
 - 💼 Interned at **TechNest** (11 end-to-end projects) & **Forggith Pharmaceuticals**
 - 📊 Strongest in **Power BI, SQL, and Python EDA**
 - 💡 Finance domain knowledge = my real differentiator
