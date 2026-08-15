@@ -122,31 +122,12 @@ I specialize in turning raw business data into clear, actionable insights — wi
 
 
 ----------------------
-```ruby
-┌──(l4dybu6㉿GitHub)-[~]
-└─$ bash stats.sh 
-```
-<!--
 <p align="center">
-<a href="https://github.com/Kanakbaghel">
-  <img alt="Kanakbaghel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakbaghel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="./profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" />
+  <br/>
+  <img src="./profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="./profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  <br/>
+  <img src="./profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="Productive Time" />
 </p>
-<p align="center">
-  <a href="https://github.com/Kanakbaghel">
-  <img alt="Kanakbaghel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kanakbaghel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kanakbaghel/Kanakbaghel/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" width="75%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kanakbaghel/Kanakbaghel/main/profile-summary-card-output/react/1-repos-per-language.svg" width="30%" />
-  <img src="https://raw.githubusercontent.com/Kanakbaghel/Kanakbaghel/main/profile-summary-card-output/react/3-stats.svg" width="32%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kanakbaghel/Kanakbaghel/main/profile-summary-card-output/midnight_purple/3-stats.svg" width="38%" />
-  <img src="https://raw.githubusercontent.com/Kanakbaghel/Kanakbaghel/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" width="38%" />
-</p>
-
-
