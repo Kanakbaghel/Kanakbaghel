@@ -78,6 +78,15 @@ I specialize in turning raw business data into clear, actionable insights — wi
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanakbaghel&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
+<p align="center">
+  <img src="./profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" />
+  <br/>
+  <img src="./profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="./profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  <br/>
+  <img src="./profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="Productive Time" />
+</p>
 
 ---
 
@@ -122,12 +131,3 @@ I specialize in turning raw business data into clear, actionable insights — wi
 
 
 ----------------------
-<p align="center">
-  <img src="./profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" />
-  <br/>
-  <img src="./profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="./profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-  <br/>
-  <img src="./profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="Productive Time" />
-</p>
