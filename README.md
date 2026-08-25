@@ -72,11 +72,8 @@ I specialize in turning raw business data into clear, actionable insights — wi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kanakbaghel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-<div align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kanakbaghel&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
+ <img src="./profile/streak.svg" alt="GitHub Streak"/>
+<img src="./profile/activity.svg" alt="Activity Graph"/>
 <p align="center">
   <img src="./profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" />
   <br/>
